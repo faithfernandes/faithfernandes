@@ -1,5 +1,7 @@
 Hi, I’m Faith Fernandes!
-<img source="https://github.com/faithfernandes/faithfernandes/blob/4b00581c6352f6cbe562616679e36d2c6e7c6895/githubheader.png" alt="header image that says 'Faith Fernandes - Software Development Student. Occasional Nerd. Proud Alaskan.'">
+[![Header](https://raw.githubusercontent.com/faithfernandes/<OWNER>/<OWNER>/githubheader.png "Header")](https://some-url.dev/)
+
+<img source="../githubheader.png" alt="header image that says 'Faith Fernandes - Software Development Student. Occasional Nerd. Proud Alaskan.'">
 - 👀 I’m interested in making mobile apps, APIs for various softwares I enjoy using, and learning how to do new things with this computer of mine.
 - 🌱 I’m currently learning how to build my dream pc for work, editing, and gaming.
 
