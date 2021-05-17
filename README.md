@@ -34,7 +34,9 @@ I am a Software Development Student at Western Governor's University. Because WG
 ![](https://img.shields.io/badge/Software-Discord-informational??style=for-the-badge&logo=discord&logoColor=white&color=cfbfab&labelColor=44574f)
 ![](https://img.shields.io/badge/Software-Notion-informational??style=for-the-badge&logo=notion&logoColor=white&color=cfbfab&labelColor=44574f)
 ## Find Me Elsewhere
-<img src='social icons/linkedin-4-64.png' style='padding: 30px;'><img src='social icons/wordpress-4-64.png'>
+<!-- LinkIn -->
+<!-- Personal Portfolio: Hosted by Wordpress -->
+[<img src='social icons/linkedin.png' width='75'>](https://www.linkedin.com/in/faithfernandes/)[<img src='social icons/wordpress.png' width='75'>](https://faithfernandes.wordpress.com)
 
 
 ## GitHub Stats
