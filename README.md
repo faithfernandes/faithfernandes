@@ -4,7 +4,7 @@
 <!-- INTRODUCTION -->
 <!-- Waving GIF, Found on https://giphy.com/ -->
 # <img src='https://media3.giphy.com/media/ZZMocqZ75tuVqvMQ9I/giphy.gif?cid=5e21488619cca5d6975362da38a9ae402c391bb049cf3fba&rid=giphy.gif&ct=s' align=left width='60' height='60'/> Hi, I'm Faith!
-I am a Software Development Student at Western Governor's University. Because WGU is an online college, I'm able to stay where I love: my home state of Alaska. I’m interested in making mobile apps, APIs for various softwares I enjoy using, and learning how to do new things with this computer of mine. Currently, I'm working on building my dream pc for work, editing, and gaming (if anyone has access to a decent GPU that isn't being price-gouged or out of stock, lemme know!).
+I am a Software Development Student at Western Governor's University. Because WGU is an online college, I'm able to stay where I love: my home state of Alaska (temporarily in California, but going back soon!). I’m interested in making mobile apps, APIs for various softwares I enjoy using, and learning how to do new things with this computer of mine. Currently, I'm working on building my dream pc for work, editing, and gaming (if anyone has access to a decent GPU that isn't being price-gouged or out of stock, lemme know!).
 
 <!-- ## What I've Done  -- Will add when I have some projects to show off! -->
 <!-- Dog Typing on Laptop GIF, Found on https://giphy.com/ -->
