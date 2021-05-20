@@ -13,7 +13,7 @@ I am a Software Development Student at Western Governor's University. Because WG
 ## What I Know
 #### Coding Languages
 ![](https://img.shields.io/badge/Code-Java-informational??style=for-the-badge&logo=java&logoColor=white&color=cfbfab&labelColor=44574f)
-![](https://img.shields.io/badge/Code-C++-informational??style=for-the-badge&logo=c++&logoColor=white&color=cfbfab&labelColor=44574f)
+![](https://img.shields.io/badge/Code-C%2B%2B-informational??style=for-the-badge&logo=c%2B%2B&logoColor=white&color=cfbfab&labelColor=44574f)
 </br>
 
 ## What I Use
