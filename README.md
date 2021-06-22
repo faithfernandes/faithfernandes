@@ -22,6 +22,7 @@ I am a Software Development Student at Western Governor's University. Because WG
 ![](https://img.shields.io/badge/OS-Mac-informational??style=for-the-badge&logo=macos&logoColor=white&color=cfbfab&labelColor=44574f)
 </br>
 #### Editors & IDEs
+![](https://img.shields.io/badge/IDE-Xcode-informational??style=for-the-badge&logo=xcode&logoColor=white&color=cfbfab&labelColor=44574f)
 ![](https://img.shields.io/badge/IDE-Visual_Studio-informational??style=for-the-badge&logo=visual-studio&logoColor=white&color=cfbfab&labelColor=44574f)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational??style=for-the-badge&logo=visual-studio-code&logoColor=white&color=cfbfab&labelColor=44574f)
 </br>
