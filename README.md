@@ -1,10 +1,10 @@
 <!-- Header Image - Made on Canva, Avatar Created on https://avatarmaker.com/ -->
-[![Header](https://github.com/faithfernandes/faithfernandes/blob/main/githubheader.png "Header image that says 'Faith Fernandes - Software Development Student. Occasional Nerd. Proud Alaskan.")](https://www.linkedin.com/in/faithfernandes/)
+[![Header](https://github.com/faithfernandes/faithfernandes/blob/main/updatedgithubheader.png "Header image that says 'Faith Fernandes - Systems Engineer. Software Development Student. Proud Alaskan.")](https://www.linkedin.com/in/faithfernandes/)
 
 <!-- INTRODUCTION -->
 <!-- Waving GIF, Found on https://giphy.com/ -->
 # <img src='https://media3.giphy.com/media/ZZMocqZ75tuVqvMQ9I/giphy.gif?cid=5e21488619cca5d6975362da38a9ae402c391bb049cf3fba&rid=giphy.gif&ct=s' align=left width='60' height='60'/> Hi, I'm Faith!
-I am a Software Development Student at Western Governor's University. Because WGU is an online college, I'm able to stay where I love: my home state of Alaska. I’m interested in making mobile apps, APIs for various softwares I enjoy using, and learning how to do new things with this computer of mine. Currently, I'm working on building my dream pc for work, editing, and gaming.
+I am an IT Systems Engineer. I am also a Software Development Student at Western Governor's University. Because WGU is an online college, I'm able to stay where I love: my home state of Alaska. I’m interested in making mobile apps, scripting to make my life easier, and learning how to do new things with this computer of mine. Currently, I'm working on building my dream pc for work, editing, and gaming.
 
 <!-- ## What I've Done  -- Will add when I have some projects to show off! -->
 <!-- Dog Typing on Laptop GIF, Found on https://giphy.com/ -->
@@ -12,8 +12,9 @@ I am a Software Development Student at Western Governor's University. Because WG
 
 ## What I Know
 #### Coding Languages
-![](https://img.shields.io/badge/Code-Java-informational??style=for-the-badge&logo=java&logoColor=white&color=cfbfab&labelColor=44574f)
-![](https://img.shields.io/badge/Code-C%2B%2B-informational??style=for-the-badge&logo=c%2B%2B&logoColor=white&color=cfbfab&labelColor=44574f)
+![](https://img.shields.io/badge/Scripting-PowerShell-informational??style=for-the-badge&logo=powershell&logoColor=white&color=cfbfab&labelColor=44574f)
+![](https://img.shields.io/badge/Coding-Java-informational??style=for-the-badge&logo=java&logoColor=white&color=cfbfab&labelColor=44574f)
+![](https://img.shields.io/badge/Coding-C%2B%2B-informational??style=for-the-badge&logo=c%2B%2B&logoColor=white&color=cfbfab&labelColor=44574f)
 </br>
 
 ## What I Use
@@ -22,9 +23,13 @@ I am a Software Development Student at Western Governor's University. Because WG
 ![](https://img.shields.io/badge/OS-Mac-informational??style=for-the-badge&logo=macos&logoColor=white&color=cfbfab&labelColor=44574f)
 </br>
 #### Editors & IDEs
-![](https://img.shields.io/badge/IDE-Xcode-informational??style=for-the-badge&logo=xcode&logoColor=white&color=cfbfab&labelColor=44574f)
+![](https://img.shields.io/badge/IDE-IntelliJ-informational??style=for-the-badge&logo=intellijIDEA&logoColor=white&color=cfbfab&labelColor=44574f)
 ![](https://img.shields.io/badge/IDE-Visual_Studio-informational??style=for-the-badge&logo=visual-studio&logoColor=white&color=cfbfab&labelColor=44574f)
+![](https://img.shields.io/badge/IDE-Android_Studio-informational??style=for-the-badge&logo=android-studio&logoColor=white&color=cfbfab&labelColor=44574f)
+</br>
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational??style=for-the-badge&logo=visual-studio-code&logoColor=white&color=cfbfab&labelColor=44574f)
+</br>
+![](https://img.shields.io/badge/Terminal-PowerShell-informational??style=for-the-badge&logo=powershell&logoColor=white&color=cfbfab&labelColor=44574f)
 </br>
 #### Tools
 ![](https://img.shields.io/badge/Tool-PostgreSQL-informational??style=for-the-badge&logo=PostgreSQL&logoColor=white&color=cfbfab&labelColor=44574f)
