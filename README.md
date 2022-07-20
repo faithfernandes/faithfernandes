@@ -1,5 +1,5 @@
 <!-- Header Image - Made on Canva, Avatar Created on https://avatarmaker.com/ -->
-[![Header](https://github.com/faithfernandes/faithfernandes/blob/main/updatedgithubheader.png "Header image that says 'Faith Fernandes - Systems Engineer. Software Development Student. Proud Alaskan.")](https://www.linkedin.com/in/faithfernandes/)
+[![Header](https://github.com/faithfernandes/faithfernandes/blob/main/updatedgithubheader.jpg "Header image that says 'Faith Fernandes - Systems Engineer. Software Development Student. Proud Alaskan.")](https://www.linkedin.com/in/faithfernandes/)
 
 <!-- INTRODUCTION -->
 <!-- Waving GIF, Found on https://giphy.com/ -->
